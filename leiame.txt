@@ -1,0 +1,2 @@
+# WIN11-SEM-TPM-E-SECURE-BOOT-BUILD-22000.65
+execute como adminstrador os baixadores das iso
